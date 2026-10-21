@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/hydrogen-long-duration-storage-plant-explainer/
 
+Repository: https://github.com/mizcausevic-dev/hydrogen-long-duration-storage-plant-explainer
+
 ## What this is
 
 An interactive anatomy plate for Hydrogen Long-Duration Storage Plant. Play, scrub, or jump the five stages. The same frame always draws the same picture.
